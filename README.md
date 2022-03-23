@@ -1,10 +1,10 @@
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/abhishknads/">
+## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
   
-  
- **Maor Arnon** | <img src="https://img.shields.io/badge/Maor-Programmer-blue" alt="Programmer" >  <img src="https://amazol-n3m.herokuapp.com/images/team/maor.jpg" width="50" height="50"> 
-  
+ I Am :
+ ### **Maor Arnon** | <img src="https://img.shields.io/badge/Maor-Programmer-blue" alt="Programmer" >  <img src="https://amazol-n3m.herokuapp.com/images/team/maor.jpg" width="50" height="50"> 
+ <a href="https://www.instagram.com/maor_ar/"> 
   <img align="left" alt="Maor's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.instagram.com/maor_ar/">
@@ -39,6 +39,8 @@ i am also an open-source enthusiast and maintainer. i am learning a lot from the
 <code><img height="20" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"></code>
+
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
