@@ -1,26 +1,39 @@
 
 ## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+![](https://visitor-badge.glitch.me/badge?page_id=Maor-Ar.Maor-Ar)
   
  I Am :
- ### **Maor Arnon** | <img src="https://img.shields.io/badge/Maor-Programmer-blue" alt="Programmer" >  <img src="https://amazol-n3m.herokuapp.com/images/team/maor.jpg" width="50" height="50"> 
+  <div align="left">
+<h3> ~Maor Arnon~ </h3> 
+  <img src="https://amazol-n3m.herokuapp.com/images/team/maor.jpg" width="150" height="150"> 
+  <img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png" align="right"
+     alt="SCE logo" width="320" height="98">
+  <br/>
+  <img src="https://img.shields.io/badge/Maor-Programmer-blue" alt="Programmer" >
+  <br />
  <a href="https://www.instagram.com/maor_ar/"> 
-  <img align="left" alt="Maor's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="center" alt="Maor's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+  
 <a href="https://www.instagram.com/maor_ar/">
-  <img align="left" alt="Maor's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="center" alt="Maor's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/maor-arnon-software-engineer-student">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<div align="center"> <b>Im currently a 3rd year student <br/> persuing my B.Sc software engineering degree at SCE engineering college 👨🏼‍🎓 </font></div>
+  <b/><br/>
+</div>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Maor-Ar.Maor-Ar)
+
+
 
 <br />
 
+
 hi, i'm [Maor Arnon](https://maor-ar.github.io/), a passionate self-taught full stack developer and a freelance software engineer from Israel. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i am learning a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+i am also an open-source enthusiast and maintainer. i am learning a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -41,36 +54,42 @@ i am also an open-source enthusiast and maintainer. i am learning a lot from the
 <code><img height="20" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"></code>
 
+---
+## 📊 tasks
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+- [x] Born
+- [ ] Got a job
+- [ ] Married
+- [ ] Have children
+- [ ] Die
 
-```text
-JavaScript   15 hrs 13 mins  ████████████████████████▓   98.88 %
-C++          4 hrs mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-```
+---
 
-<!--END_SECTION:waka-->
-
-if you like what i do,
+if you like what i do, <br>
 maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/maorerrorT" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
 
-### :zap: Recent Activity
+### :zap: Recent Activity <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 ---
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Maor-Ar&show_icons=true&theme=gotham" alt="MaorAr" />
 
 
+<div align="center">
 
 
+### 📈 my github stats
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Maor-Ar&show_icons=true&theme=gotham) | ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maor-Ar&show_icons=true&theme=gotham) |
+
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Maor-Ar.Maor-Ar) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Maor-Ar) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Maor-Ar)
+
+</div>
