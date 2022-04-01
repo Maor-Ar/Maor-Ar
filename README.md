@@ -1,14 +1,11 @@
 
 ## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png" align="right"
-     alt="SCE logo" width="320" height="98">
-     <br/><br/><br/>
  I Am :
   <div align="left">
   <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGgGT2dnwQTbQ/profile-displaybackgroundimage-shrink_350_1400/0/1622329582282?e=1654128000&v=beta&t=fRQVvjqcrRA6Ahxi8fy_Tp9u-Ohgl4g0m9LPfOEctis" width="1400 *0.8" height="320*0.6"> 
 
-  <br/>
+<br/>
   <img src="https://img.shields.io/badge/Maor-Programmer-blue" alt="Programmer" >
   <br />
   
@@ -22,7 +19,8 @@
 <a href="https://www.linkedin.com/in/maor-arnon-software-engineer-student">
   <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<div align="center"> <b>Im a 3rd year student persuing my B.Sc software engineering degree at SCE engineering college 👨🏼‍🎓 </font></div>
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<div align="center"> <b>Im a 3rd year student persuing my B.Sc software engineering degree at <img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png"
+     alt="SCE logo" width="70px"> engineering college 👨🏼‍🎓 </font></div>
   <b/><br/>
 </div>
 
@@ -33,7 +31,7 @@
 <br />
 
 
-hi, my name is [Maor Arnon](https://maor-ar.github.io/), a passionate self-taught full stack developer and a freelance software engineer from Israel. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+My name is [Maor Arnon](https://maor-ar.github.io/), a passionate self-taught full stack developer and a freelance software engineer from Israel. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i am learning a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. 
 
