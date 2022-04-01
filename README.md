@@ -54,6 +54,15 @@ i am also an open-source enthusiast and maintainer. i am learning a lot from the
 <code><img height="20" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"></code>
 
+### :zap: projects I'm currently working on <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
+<!--START_SECTION:activity-->
+- [Amazol - Ecommers Site (HTML React CSS MUI etc)](https://github.com/TeamN3M/Amazol-FE) <br/>
+- [RecycleCan - Smart recycling bin (Arduino & Android app)](https://github.com/Maor-Ar/RecycleCan)
+<!--END_SECTION:activity-->
+---
+
+
 ---
 ## 📊 tasks
 
@@ -71,14 +80,6 @@ maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/maorerrorT" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
-
-### :zap: Recent Activity <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
----
-
 
 
 <div align="center">
