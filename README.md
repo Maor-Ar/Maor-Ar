@@ -57,7 +57,7 @@ I am also an open-source enthusiast and maintainer. i am learning a lot from the
 ### :zap: projects I'm currently working on <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <!--START_SECTION:activity-->
-- [Amazol - Ecommers Site (HTML React CSS MUI etc)](https://github.com/TeamN3M/Amazol-FE) <br/>
+1. 💪 Opened PR [#48529](https://github.com/firstcontributions/first-contributions/pull/48529) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 - [RecycleCan - Smart recycling bin (Arduino & Android app)](https://github.com/Maor-Ar/RecycleCan)
 <!--END_SECTION:activity-->
 ---
