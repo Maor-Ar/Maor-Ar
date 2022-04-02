@@ -53,14 +53,17 @@ I am also an open-source enthusiast and maintainer. i am learning a lot from the
 <code><img height="20" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"></code>
-
+---
 ### :zap: projects I'm currently working on <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
+
+- [Amazol - FrontEnd & BackEnd (React JS MUI with CICD)](https://github.com/TeamN3M/Amazol-FE)
+- [RecycleCan - Smart recycling bin (Arduino & Android app)](https://github.com/Maor-Ar/RecycleCan)
+## **Recent Activity-**
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#48529](https://github.com/firstcontributions/first-contributions/pull/48529) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-- [RecycleCan - Smart recycling bin (Arduino & Android app)](https://github.com/Maor-Ar/RecycleCan)
 <!--END_SECTION:activity-->
----
+
 
 
 ---
