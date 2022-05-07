@@ -61,7 +61,7 @@ I am also an open-source enthusiast and maintainer. i am learning a lot from the
 - [RecycleCan - Smart recycling bin (Arduino & Android app)](https://github.com/Maor-Ar/RecycleCan)
 ## **Recent Activity-**
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/TeamN3M/Amazol-FE/pull/10) in [TeamN3M/Amazol-FE](https://github.com/TeamN3M/Amazol-FE)
+1. 🎉 Merged PR [#11](https://github.com/TeamN3M/Amazol-FE/pull/11) in [TeamN3M/Amazol-FE](https://github.com/TeamN3M/Amazol-FE)
 <!--END_SECTION:activity-->
 
 
