@@ -59,6 +59,7 @@ I am also an open-source enthusiast and maintainer. i am learning a lot from the
 
 - [Amazol - FrontEnd & BackEnd (React JS MUI with CICD)](https://github.com/TeamN3M/Amazol-FE)
 - [RecycleCan - Smart recycling bin (Arduino & Android app)](https://github.com/Maor-Ar/RecycleCan)
+- [WebDev Portfolio (W.I.P - on hold)](https://github.com/Maor-Ar/Maor-Ar.github.io)
 ## **Recent Activity-**
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#11](https://github.com/TeamN3M/Amazol-FE/pull/11) in [TeamN3M/Amazol-FE](https://github.com/TeamN3M/Amazol-FE)
