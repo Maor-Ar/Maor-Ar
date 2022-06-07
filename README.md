@@ -1,9 +1,10 @@
 
-## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
  I Am :
   <div align="left">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGgGT2dnwQTbQ/profile-displaybackgroundimage-shrink_350_1400/0/1622329582282?e=1654128000&v=beta&t=fRQVvjqcrRA6Ahxi8fy_Tp9u-Ohgl4g0m9LPfOEctis" width="1400 *0.8" height="320*0.6"> 
+  <img src="https://github.com/Maor-Ar/Maor-Ar/blob/main/Images/banner.png">
+
 
 <br/>
   <img src="https://img.shields.io/badge/Maor-Programmer-blue" alt="Programmer" >
