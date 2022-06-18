@@ -63,7 +63,7 @@ I am also an open-source enthusiast and maintainer. i am learning a lot from the
 - [WebDev Portfolio (W.I.P - on hold)](https://github.com/Maor-Ar/Maor-Ar.github.io)
 ## **Recent Activity-**
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/TeamN3M/Amazol-FE/pull/12) in [TeamN3M/Amazol-FE](https://github.com/TeamN3M/Amazol-FE)
+1. 🗣 Commented on [#7313](https://github.com/tachiyomiorg/tachiyomi/issues/7313) in [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 <!--END_SECTION:activity-->
 
 
