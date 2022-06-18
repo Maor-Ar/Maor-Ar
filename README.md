@@ -91,10 +91,11 @@ maybe consider buying me a coffee/tea 🥺👉👈
 
 
 ### 📈 my github stats
-| Github Stats | Top Languages |
+ ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Maor-Ar&show_icons=true&theme=gotham)
+<!-- | Github Stats | Top Languages |
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Maor-Ar&show_icons=true&theme=gotham) | ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maor-Ar&show_icons=true&theme=gotham) |
-
+ -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Maor-Ar.Maor-Ar) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Maor-Ar) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Maor-Ar)
 
