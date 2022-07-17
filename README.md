@@ -63,7 +63,7 @@ I am also an open-source enthusiast and maintainer. i am learning a lot from the
 - [WebDev Portfolio (W.I.P - on hold)](https://github.com/Maor-Ar/Maor-Ar.github.io)
 ## **Recent Activity-**
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7313](https://github.com/tachiyomiorg/tachiyomi/issues/7313) in [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+1. ❗️ Opened issue [#1](https://github.com/MatanSofer/FooDatingApp-AndroidProject/issues/1) in [MatanSofer/FooDatingApp-AndroidProject](https://github.com/MatanSofer/FooDatingApp-AndroidProject)
 <!--END_SECTION:activity-->
 
 
