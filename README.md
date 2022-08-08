@@ -72,7 +72,7 @@ I am also an open-source enthusiast and maintainer. i am learning a lot from the
 ## 📊 tasks
 
 - [x] Born
-- [ ] Got a job
+- [x] Got a job
 - [ ] Married
 - [ ] Have children
 - [ ] Die
