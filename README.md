@@ -14,11 +14,8 @@
   <img align="center" alt="Maor's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
   
-<a href="https://www.instagram.com/maor_ar/">
-  <img align="center" alt="Maor's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://www.linkedin.com/in/maor-arnon-software-engineer-student">
-  <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Maor's Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<div align="center"> <b>Im a 3rd year student persuing my B.Sc software engineering degree at <img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png"
      alt="SCE logo" width="70px"> engineering college 👨🏼‍🎓 </font></div>
