@@ -1,4 +1,3 @@
-
 ## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
  I Am :
@@ -7,7 +6,7 @@
 
 
 <br/>
-  <img src="https://img.shields.io/badge/Maor-Programmer-blue" alt="Programmer" >
+  <img src="https://img.shields.io/badge/Maor-AI%20Developer-blue" alt="AI Developer" >
   <br />
   
  <a href="https://www.instagram.com/maor_ar/"> 
@@ -29,9 +28,9 @@
 <br />
 
 
-My name is [Maor Arnon](https://maor-ar.github.io/), a passionate self-taught full stack developer and a freelance software engineer from Israel. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+My name is [Maor Arnon](https://maor-ar.github.io/), a passionate full-stack developer and AI developer with 4 years of professional experience. Currently working as an AI Developer, I specialize in building intelligent applications and modern web platforms. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. i am learning a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. 
+I am also an open-source enthusiast and maintainer. I love how collaboration and knowledge sharing happens through open-source. 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600"  />
@@ -55,8 +54,11 @@ I am also an open-source enthusiast and maintainer. i am learning a lot from the
 ### :zap: projects I'm currently working on <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 
+- [StudioBuda-ArtHub - Full-Stack Art Studio Platform (Node.js & Modern JS)](https://github.com/Maor-Ar/StudioBuda-ArtHub)
+- [YaaraArtStudioClassesSite - Art Classes Website (Angular & SCSS)](https://github.com/Maor-Ar/YaaraArtStudioClassesSite)
 - [Amazol - FrontEnd & BackEnd (React JS MUI with CICD)](https://github.com/TeamN3M/Amazol-FE)
 - [RecycleCan - Smart recycling bin (Arduino & Android app)](https://github.com/Maor-Ar/RecycleCan)
+- [Elbars-Assignment - Product Management System (.NET Core + Angular + MS-SQL)](https://github.com/Maor-Ar/Elbars-Assignment)
 - [WebDev Portfolio (W.I.P - on hold)](https://github.com/Maor-Ar/Maor-Ar.github.io)
 ## **Recent Activity-**
 <!--START_SECTION:activity-->
