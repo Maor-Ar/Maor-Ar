@@ -35,8 +35,8 @@ I am also an open-source enthusiast and maintainer. I love how collaboration and
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600"  />
   
-- 💼 any freelance work? do reach, [email](mailto:maorar1@ac.sce.ac.il) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 any freelance work? do reach, [email](mailto:maorarnon@gmail.com) :)
+- 💬 ask me about anything, I am happy to help;
 
 **languages and tools:**  
 
@@ -78,7 +78,7 @@ I am also an open-source enthusiast and maintainer. I love how collaboration and
 
 ---
 
-if you like what i do, <br>
+If you like what I do, <br>
 maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/maorerrorT" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
@@ -88,7 +88,7 @@ maybe consider buying me a coffee/tea 🥺👉👈
 
 <div align="center">
 
-### 📈 my github stats
+### 📈 My GitHub stats
  ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Maor-Ar&show_icons=true&theme=gotham)
 
 ### 🙊 A random Joke to lighten up your day
