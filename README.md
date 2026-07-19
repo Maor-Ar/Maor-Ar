@@ -1,7 +1,7 @@
 ## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 <p align="center">
-  <img src="./Images/banner.png" alt="Maor Arnon — AI Engineer · Full-Stack · Python · GCP · React" width="920">
+  <img src="./Images/banner.png?v=3" alt="Maor Arnon — AI Engineer · Full-Stack · Python · GCP · React" width="860">
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ My name is [Maor Arnon](https://maor-ar.github.io/), an **AI Engineer** and full
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 I currently work at **MGroup** on education-sector products for the **Israeli Ministry of Education**, building production Generative AI systems with **Python, FastAPI, Google Cloud, Vertex AI (Gemini), embeddings, and RAG**.
 
@@ -40,7 +40,7 @@ I care about clean architecture, solid UX, and code that ships — from agent wo
 - 💬 Ask me about AI systems, full-stack, or open source
 
 </td>
-<td width="42%" valign="middle" align="center">
+<td width="45%" align="center" valign="middle">
 
 <img alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" />
 
