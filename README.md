@@ -1,7 +1,7 @@
 ## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 <p align="center">
-  <img src="./Images/banner-header.png" alt="Maor Arnon — AI Engineer · Full-Stack · Python · GCP · React" width="720">
+  <img src="./Images/banner-header.png" alt="Maor Arnon — AI Engineer · Full-Stack · Python · GCP · React" >
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 My name is [Maor Arnon](https://maor-ar.github.io/), an **AI Engineer** and full-stack developer with ~5 years of professional experience.
 
-<img align="right" alt="Coding" width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+<img align="right" alt="Coding" width="650" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 I currently work at **MGroup** on education-sector products for the **Israeli Ministry of Education**, building production Generative AI systems with **Python, FastAPI, Google Cloud, Vertex AI (Gemini), embeddings, and RAG**.
 
@@ -110,7 +110,6 @@ maybe consider buying me a coffee/tea 🥺👉👈
 ### 🙊 A random joke to lighten up your day
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 
-[![PRs Welcome](./Images/badge-prs.svg)](https://github.com/Maor-Ar)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Maor-Ar)
 
 </div>
