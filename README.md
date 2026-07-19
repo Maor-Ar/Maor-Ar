@@ -1,7 +1,7 @@
 ## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 <p align="center">
-  <img src="./Images/banner-header.png" alt="Maor Arnon — AI Engineer · Full-Stack · Python · GCP · React" width="720">
+  <img src="./Images/banner-header.png" alt="Maor Arnon — AI Engineer · Full-Stack · Python · GCP · React" width="620">
 </p>
 
 <p align="center">
@@ -22,15 +22,11 @@
   <b>Ashdod · GPA 85</b> 👨🏻‍🎓
 </p>
 
-My name is [Maor Arnon](https://maor-ar.github.io/), an **AI Engineer** and full-stack developer with ~5 years of professional experience.
+<img align="right" alt="Coding" height="210" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
-<img align="right" alt="Coding" width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+My name is [Maor Arnon](https://maor-ar.github.io/), an **AI Engineer** and full-stack developer with ~5 years of professional experience. I currently work at **MGroup** on education-sector products for the **Israeli Ministry of Education**, building production Generative AI systems with **Python, FastAPI, Google Cloud, Vertex AI (Gemini), embeddings, and RAG**.
 
-I currently work at **MGroup** on education-sector products for the **Israeli Ministry of Education**, building production Generative AI systems with **Python, FastAPI, Google Cloud, Vertex AI (Gemini), embeddings, and RAG**.
-
-Before that, I spent several years as a full-stack developer at **Matrix**, shipping enterprise apps for Bank of Israel, Mizrahi-Tefahot, FIBI, Max, and others.
-
-I care about clean architecture, solid UX, and code that ships — from agent workflows and MCP tools to polished client websites.
+Before that, I spent several years as a full-stack developer at **Matrix**, shipping enterprise apps for Bank of Israel, Mizrahi-Tefahot, FIBI, Max, and others. I care about clean architecture, solid UX, and code that ships — from agent workflows and MCP tools to polished client websites.
 
 - 🏢 **AI Engineer @ MGroup** — LLM backends, agents, GCP / Vertex AI
 - 🌐 Portfolio → [maor-ar.github.io](https://maor-ar.github.io/)
