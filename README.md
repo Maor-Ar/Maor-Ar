@@ -6,10 +6,10 @@
   <br/>
 
   <a href="https://maor-ar.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-maor--ar.github.io-0A66C2?style=flat&logo=github&logoColor=white" alt="Portfolio">
+    <img src="./Images/badge-portfolio.svg" alt="Portfolio" height="20">
   </a>
-  <img src="https://img.shields.io/badge/Role-AI%20Engineer-1f6feb?style=flat" alt="AI Engineer">
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%7C%20RAG%20%7C%20MCP-238636?style=flat" alt="Focus">
+  <img src="./Images/badge-role.svg" alt="AI Engineer" height="20">
+  <img src="./Images/badge-focus.svg" alt="Focus" height="20">
 
   <br/><br/>
 
@@ -112,13 +112,13 @@ maybe consider buying me a coffee/tea 🥺👉👈
 
 ### 📈 GitHub stats
 
-![Maor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maor-Ar&show_icons=true&theme=gotham&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maor-Ar&layout=compact&theme=gotham&hide_border=true)
+![Maor's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Maor-Ar&show_icons=true&theme=gotham&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maor-Ar&layout=compact&theme=gotham&hide_border=true)
 
 ### 🙊 A random joke to lighten up your day
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Maor-Ar)
+[![PRs Welcome](./Images/badge-prs.svg)](https://github.com/Maor-Ar)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Maor-Ar)
 
 </div>
