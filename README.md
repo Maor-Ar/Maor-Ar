@@ -24,7 +24,7 @@
 
 My name is [Maor Arnon](https://maor-ar.github.io/), an **AI Engineer** and full-stack developer with ~5 years of professional experience.
 
-<img align="right" alt="Coding" width="600" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+<img align="right" alt="Coding" width="450" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 I currently work at **MGroup** on education-sector products for the **Israeli Ministry of Education**, building production Generative AI systems with **Python, FastAPI, Google Cloud, Vertex AI (Gemini), embeddings, and RAG**.
 
