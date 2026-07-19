@@ -1,51 +1,52 @@
 ## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
-<div align="left">
-  <img src="./Images/banner.png" alt="Maor Arnon — AI Engineer · Full-Stack · Python · GCP · React" width="100%">
+<p align="center">
+  <img src="./Images/banner.png" alt="Maor Arnon — AI Engineer · Full-Stack · Python · GCP · React" width="920">
+</p>
 
-  <br/>
-
-  <a href="https://maor-ar.github.io/">
-    <img src="./Images/badge-portfolio.svg" alt="Portfolio" height="20">
-  </a>
+<p align="center">
+  <a href="https://maor-ar.github.io/"><img src="./Images/badge-portfolio.svg" alt="Portfolio" height="20"></a>
   <img src="./Images/badge-role.svg" alt="AI Engineer" height="20">
   <img src="./Images/badge-focus.svg" alt="Focus" height="20">
+</p>
 
-  <br/><br/>
-
-  <a href="https://www.linkedin.com/in/ma-fullstackdev/">
-    <img align="center" alt="Maor's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ma-fullstackdev/"><img align="center" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/maor_ar/">
-    <img align="center" alt="Maor's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-  </a>
+  <a href="https://www.instagram.com/maor_ar/"><img align="center" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
   &nbsp;
-  <a href="mailto:maorarnon@gmail.com">
-    <img align="center" alt="Email" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <b>B.Sc. Software Engineering graduate at</b>
-  <img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png" alt="SCE logo" width="70px">
+  <a href="mailto:maorarnon@gmail.com"><img align="center" alt="Email" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
+  &nbsp;&nbsp;
+  <b>B.Sc. Software Engineering ·</b>
+  <img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png" alt="SCE logo" height="28">
   <b>Ashdod · GPA 85</b> 👨🏻‍🎓
-</div>
-
-<br/>
+</p>
 
 My name is [Maor Arnon](https://maor-ar.github.io/), an **AI Engineer** and full-stack developer with ~5 years of professional experience.
 
-I currently work at **MGroup** on education-sector products for the **Israeli Ministry of Education**, building production Generative AI systems with **Python, FastAPI, Google Cloud, Vertex AI (Gemini), embeddings, and RAG**. Before that, I spent several years as a full-stack developer at **Matrix**, shipping enterprise apps for Bank of Israel, Mizrahi-Tefahot, FIBI, Max, and others.
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I currently work at **MGroup** on education-sector products for the **Israeli Ministry of Education**, building production Generative AI systems with **Python, FastAPI, Google Cloud, Vertex AI (Gemini), embeddings, and RAG**.
+
+Before that, I spent several years as a full-stack developer at **Matrix**, shipping enterprise apps for Bank of Israel, Mizrahi-Tefahot, FIBI, Max, and others.
 
 I care about clean architecture, solid UX, and code that ships — from agent workflows and MCP tools to polished client websites.
 
-<img align="right" alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" />
-
 - 🏢 **AI Engineer @ MGroup** — LLM backends, agents, GCP / Vertex AI
 - 🌐 Portfolio → [maor-ar.github.io](https://maor-ar.github.io/)
-- 💼 Freelance? reach me at [maorarnon@gmail.com](mailto:maorarnon@gmail.com)
-- 💬 Ask me about AI systems, full-stack, or open source — happy to help
+- 💼 Freelance? [maorarnon@gmail.com](mailto:maorarnon@gmail.com)
+- 💬 Ask me about AI systems, full-stack, or open source
 
-<br clear="both"/>
+</td>
+<td width="42%" valign="middle" align="center">
+
+<img alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" />
+
+</td>
+</tr>
+</table>
 
 **languages & tools:**
 
